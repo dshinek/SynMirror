@@ -11,7 +11,7 @@
 
 Each dataset is associated with a unique ID, and all images sharing the same ID were generated from the same caption. Since the captions preserve a significant amount of information about the original natural images, each dataset exhibits relatively similar distributions in terms of metadata such as gender and age. This allows research using this dataset to be generalized to the study of differences between natural and synthetic data, without being heavily influenced by attributes like gender or age.
 
-## Distribution Plots
+## Meta Info Distribution
 
 Below are the gender and age distribution plots for each dataset:
 
