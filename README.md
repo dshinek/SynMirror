@@ -33,10 +33,10 @@ If the dataset was constructed correctly according to the hypothesis, then image
 
 Each dataset can be downloaded from the links below:
 
-- **Natural Data**: [Download Link](https://drive.google.com/file/d/1gkU8dC_QorA5mm93tWY7_3D1uF_UTxM0/view?usp=drive_link)
-- **SDXL Data**: [Download Link](https://drive.google.com/file/d/1ls9e1P0gj5BgeL9ZEyIfA_JyRdtwE6qh/view?usp=drive_link)
-- **SD Data**: [Download Link](https://drive.google.com/file/d/1gmzTpmm7nRZQntztm9K3A-wfkQvD80X_/view?usp=drive_link)
-- **Infinity Data**: [Download Link](https://drive.google.com/file/d/1N5wsna92xcLcWpAHVoYbVN-W3LDghwna/view?usp=drive_link)
+- **Natural Data**: [Download Link](https://drive.google.com/file/d/1EXpYS9I-yMaQ2HCIjvTFOEanNejAXjDW/view?usp=sharing)
+- **SDXL Data**: [Download Link](https://drive.google.com/file/d/1EB9S0r9QJH-8vccpaS9m5gA3LqAqaVis/view?usp=sharing)
+- **SD Data**: [Download Link](https://drive.google.com/file/d/1NjEgeT930K5VstaZ8Mvw4klDH0gr49Ss/view?usp=sharing)
+- **Infinity Data**: [Download Link](https://drive.google.com/file/d/1226xKnLotJhuPIgGUAiH_kaq3VGpunVJ/view?usp=sharing)
 
 ## Captions
 
